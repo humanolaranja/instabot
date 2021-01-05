@@ -3,4 +3,6 @@ const credentials = {
     password: ''
 };
 
-module.exports = { credentials };
+const postURL = ''
+
+module.exports = { credentials, postURL };

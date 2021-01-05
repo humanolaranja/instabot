@@ -1,3 +1,4 @@
-const { login } = require('./login')
+const { login } = require('./login');
+const { goToPost } = require('./goToPost');
 
-module.exports = { login };
+module.exports = { login, goToPost };
